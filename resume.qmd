@@ -1,89 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kaliah Walton CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kaliah Walton
+Student, Data Analyst, Computer Engineer.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+<div id="kaliahwaltonn@gmail.com">
 
 ## Currently
-
-Standing on the shoulders of giants
+A student at Brigham Young University_Idaho, Majoring in Computer Engineering with a minor in World History.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Visualization, Data Analysis, programming
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Hardware of computers, Machine Learning, Data Visualization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2022`
+__Mesa Community College__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2024 - 2025`
+__Brigham Young Univeristy-Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Bachelors in Computer Engineering
 
 
 ## Occupation
+`2016-2020`
+__Fast Track Legal__, Mesa AZ
 
-`1600`
-__Royal Mint__, London
+-Postal Locate Coordinater
 
-- Warden
-- Minted coins
+`2021`
+__Dutch Bros LLC__, Mesa AZ, Idaho Falls ID
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Broista '2021-2022'
+- Mobster (Traveling Trainer) '2022- current'
+
+## Skills
+- Rapid adaptability to new environments
+- Proficient in training individuals within fast-paced settings
+- Exceptional interpersonal skills, adept at effectively communicating and motivating others
+- Versed in Tableau, SQL, Python, and Plotly
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: April 2024 -->
