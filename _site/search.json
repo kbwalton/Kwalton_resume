@@ -161,23 +161,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Kaliah Walton CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Student, Data Analyst, Computer Engineer.\n\n\n\n\nA student at Brigham Young University_Idaho, Majoring in Computer Engineering with a minor in World History.\n\n\nData Visualization, Data Analysis, programming\n\n\n\nHardware of computers, Machine Learning, Data Visualization\n\n\n\n\n2020-2022 Mesa Community College\n2024 - 2025 Brigham Young Univeristy-Idaho\n\nBachelors in Computer Engineering\n\n\n\n\n2016-2020 Fast Track Legal, Mesa AZ\n-Postal Locate Coordinater\n2021 Dutch Bros LLC, Mesa AZ, Idaho Falls ID\n\nBroista ‘2021-2022’\nMobster (Traveling Trainer) ‘2022- current’\n\n\n\n\n\nRapid adaptability to new environments\nProficient in training individuals within fast-paced settings\nExceptional interpersonal skills, adept at effectively communicating and motivating others\nVersed in Tableau, SQL, Python, and Plotly\n\nLast updated: April 2024 –&gt;"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Kaliah Walton CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "A student at Brigham Young University_Idaho, Majoring in Computer Engineering with a minor in World History.\n\n\nData Visualization, Data Analysis, programming\n\n\n\nHardware of computers, Machine Learning, Data Visualization"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Kaliah Walton CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2020-2022 Mesa Community College\n2024 - 2025 Brigham Young Univeristy-Idaho\n\nBachelors in Computer Engineering"
   },
   {
     "objectID": "resume.html#awards",
@@ -196,9 +196,9 @@
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Kaliah Walton CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2016-2020 Fast Track Legal, Mesa AZ\n-Postal Locate Coordinater\n2021 Dutch Bros LLC, Mesa AZ, Idaho Falls ID\n\nBroista ‘2021-2022’\nMobster (Traveling Trainer) ‘2022- current’"
   },
   {
     "objectID": "exploration.html",
@@ -311,14 +311,20 @@
     "href": "projects.html",
     "title": "DS250 Projects",
     "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
   },
   {
     "objectID": "projects.html#repo-for-all-my-projects",
     "href": "projects.html#repo-for-all-my-projects",
     "title": "DS250 Projects",
     "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
   },
   {
     "objectID": "ml.html",
@@ -353,11 +359,228 @@
     "href": "Templates/DS250_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Templates/DS350_Template.html",
     "href": "Templates/DS350_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Kaliah Walton CV",
+    "section": "",
+    "text": "Rapid adaptability to new environments\nProficient in training individuals within fast-paced settings\nExceptional interpersonal skills, adept at effectively communicating and motivating others\nVersed in Tableau, SQL, Python, and Plotly\n\nLast updated: April 2024 –&gt;"
+  },
+  {
+    "objectID": "this.html",
+    "href": "this.html",
+    "title": "Kaliah Data Science Portfolio",
+    "section": "",
+    "text": "Hello\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/Templates/DS250_Template.html",
+    "href": "Kwalton_resume/Templates/DS250_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html",
+    "href": "Kwalton_resume/resume.html",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html#currently",
+    "href": "Kwalton_resume/resume.html#currently",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html#education",
+    "href": "Kwalton_resume/resume.html#education",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html#awards",
+    "href": "Kwalton_resume/resume.html#awards",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html#publications",
+    "href": "Kwalton_resume/resume.html#publications",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "Kwalton_resume/resume.html#occupation",
+    "href": "Kwalton_resume/resume.html#occupation",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "Kwalton_resume/Projects/project5.html",
+    "href": "Kwalton_resume/Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/Projects/project3.html",
+    "href": "Kwalton_resume/Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/Projects/project1.html",
+    "href": "Kwalton_resume/Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/index.html",
+    "href": "Kwalton_resume/index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/index.html#title-2-header",
+    "href": "Kwalton_resume/index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/exploration.html",
+    "href": "Kwalton_resume/exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/exploration.html#title-2-header",
+    "href": "Kwalton_resume/exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/cleansing.html",
+    "href": "Kwalton_resume/cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/cleansing.html#title-2-header",
+    "href": "Kwalton_resume/cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/competition.html",
+    "href": "Kwalton_resume/competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
+  },
+  {
+    "objectID": "Kwalton_resume/competition.html#title-2-header",
+    "href": "Kwalton_resume/competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
+  },
+  {
+    "objectID": "Kwalton_resume/full_stack.html",
+    "href": "Kwalton_resume/full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/full_stack.html#title-2-header",
+    "href": "Kwalton_resume/full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/ml.html",
+    "href": "Kwalton_resume/ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/ml.html#title-2-header",
+    "href": "Kwalton_resume/ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/Projects/project2.html",
+    "href": "Kwalton_resume/Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/Projects/project4.html",
+    "href": "Kwalton_resume/Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Kwalton_resume/projects.html",
+    "href": "Kwalton_resume/projects.html",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
+  },
+  {
+    "objectID": "Kwalton_resume/projects.html#repo-for-all-my-projects",
+    "href": "Kwalton_resume/projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5"
+  },
+  {
+    "objectID": "Kwalton_resume/story_telling.html",
+    "href": "Kwalton_resume/story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/story_telling.html#title-2-header",
+    "href": "Kwalton_resume/story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Kwalton_resume/Templates/DS350_Template.html",
+    "href": "Kwalton_resume/Templates/DS350_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
