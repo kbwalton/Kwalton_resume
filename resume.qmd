@@ -6,6 +6,7 @@ title: Kaliah Walton CV
 Student, Data Analyst, Computer Engineer.
 
 <div id="kaliahwaltonn@gmail.com">
+<div id="https://www.linkedin.com/in/kaliah-walton/">
 
 ## Currently
 A student at Brigham Young University_Idaho, Majoring in Computer Engineering with a minor in World History.
