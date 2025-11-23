@@ -1,5 +1,32 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#repo-for-all-my-projects",
+    "href": "projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "this.html",
+    "href": "this.html",
+    "title": "Kaliah Data Science Portfolio",
+    "section": "",
+    "text": "Hello\n\n\n\n Back to top"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Kaliah Walton CV",
@@ -39,31 +66,31 @@
     "href": "Templates/DS250_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
+    "objectID": "ml.html",
+    "href": "ml.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "Projects/project5.html",
-    "href": "Projects/project5.html",
+    "objectID": "Projects/project1.html",
+    "href": "Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "DS250 Projects",
-      "Project 5"
+      "Project 1"
     ]
   },
   {
@@ -78,26 +105,15 @@
     ]
   },
   {
-    "objectID": "Projects/project3.html",
-    "href": "Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
@@ -131,18 +147,37 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
+    "objectID": "Projects/project3.html",
+    "href": "Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 3"
+    ]
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "Projects/project4.html",
+    "href": "Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Projects/project5.html",
+    "href": "Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 5"
+    ]
   },
   {
     "objectID": "index.html",
@@ -159,62 +194,6 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "projects.html#repo-for-all-my-projects",
-    "href": "projects.html#repo-for-all-my-projects",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "Projects/project1.html",
-    "href": "Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Projects/project4.html",
-    "href": "Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
     "objectID": "Templates/DS350_Template.html",
     "href": "Templates/DS350_Template.html",
     "title": "Client Report - [Insert Project Title]",
@@ -222,10 +201,31 @@
     "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "this.html",
-    "href": "this.html",
-    "title": "Kaliah Data Science Portfolio",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Hello\n\n\n\n Back to top"
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
   }
 ]
